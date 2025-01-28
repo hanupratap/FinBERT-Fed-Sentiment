@@ -16,8 +16,8 @@ The project involves the following steps:
 
 Preliminary findings suggest that there may be a negative correlation between the sentiment of FOMC meeting minutes and the performance of the S&P 500 index. However, further analysis is needed to confirm this relationship and to explore potential investment strategies based on these findings.
 
-## Getting Started
+## References
 
-To run this project, you will need to:
-
-1. Install the required packages:
+* [FinBERT-tone](https://huggingface.co/yiyanghkust/finbert-tone)
+* [FinBERT: A Large Language Model for Extracting Information from Financial Text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3910214)
+* [FedTools](https://pypi.org/project/Fedtools/)
